@@ -23,5 +23,5 @@
   <img align="center" alt="mushina's Gmail" width="18px" src="https://github.com/Misss-techy/Misss-techy/blob/main/icons/gmail.svg" />
 </a> &nbsp; 
 <samp>|</samp> &nbsp; 
-<samp> Leave a 💛</samp>&nbsp;
+<samp> Drop a ⭐</samp>&nbsp;
 </div>
