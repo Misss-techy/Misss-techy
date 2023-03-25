@@ -5,6 +5,7 @@
 
 <!--About Me-->
 <p></p>
+<h3><samp> <img align="center" width=25px src="https://cdn-icons-png.flaticon.com/512/7334/7334294.png"> ABOUT ME  </samp></h3>
 <samp>I'm a Full-time coder and a Part-time Designer. Loves innovating and building never before seen things. Currently obsessed with Virtual Reality. I mean how can we shift to an entirely new world by putting on a pair of glasses? VR blows my mind. I do catch bugs in my free time only if they are technical. Always open to exciting oppurtunites!</samp>
 <h1></h1>
 
